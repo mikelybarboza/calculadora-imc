@@ -2,7 +2,7 @@
 
 Bem-vindo à **Calculadora de IMC**, uma aplicação simples e estilizada com um visual retrô que calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos.
 
-<img src="/assets/tela" alt="Calculadora de IMC" width="500">
+<img src="/assets/tela.jpeg" alt="Calculadora de IMC" width="500">
 ## 🎨 Destaques do Projeto
 - **Estética Retrô**: Design inspirado em calculadoras dos anos 80, com visor digital e botões coloridos.
 - **Interatividade**: Campos de entrada formatam automaticamente o peso (em quilos e gramas) e a altura (em metros e centímetros).
